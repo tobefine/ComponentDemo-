@@ -1,14 +1,13 @@
 //
 //  ViewController.m
-//  test11
+//  testCom
 //
-//  Created by omni－appple on 2018/3/8.
-//  Copyright © 2018年 COM.Sobey. All rights reserved.
+//  Created by 刘晓霖 on 2018/4/1.
+//  Copyright © 2018年 com.ForShare.www. All rights reserved.
 //
 
 #import "ViewController.h"
-#import <SetI001/SetI001MainViewController.h>
-#import <Weather002/WeatherI002MainViewController.h>
+
 @interface ViewController ()
 
 @end
@@ -18,8 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    WeatherI002MainViewController *weather = [WeatherI002MainViewController new];
-    [self presentViewController:weather animated:YES completion:nil];
 }
 
 

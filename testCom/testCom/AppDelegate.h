@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  test11
+//  testCom
 //
-//  Created by omni－appple on 2018/3/8.
-//  Copyright © 2018年 COM.Sobey. All rights reserved.
+//  Created by 刘晓霖 on 2018/4/1.
+//  Copyright © 2018年 com.ForShare.www. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
